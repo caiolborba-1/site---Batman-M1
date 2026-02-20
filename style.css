@@ -2,10 +2,13 @@ body {
     background-color: rgb(89, 123, 185);
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-image:url(assets/simbolo.jpg);
+    background-size: ;
     
 }
 
 img {
-    width: 2500px;
-    height: 1500px;
+    width: 900px;
+    height: 1200px;
 }
