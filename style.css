@@ -11,4 +11,5 @@ body {
 img {
     width: 900px;
     height: 1200px;
+    border-radius: 100px;
 }
